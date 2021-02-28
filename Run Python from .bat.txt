@@ -1,0 +1,8 @@
+call %userprofile%\Anaconda3\Scripts\activate.bat C:\Users\user\Anaconda3 
+cd %userprofile%
+
+rem Run the below Python scripts
+
+python script_1.py
+python script_2.py
+pause
